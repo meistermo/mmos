@@ -1,0 +1,1 @@
+This is my config file for visual studio code. It is a fairly minimal configuration. I like to have a lot of screen space when I am coding so I've disabled most of the convenience features that take up a lot of space.
